@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, aLife!</string>
+    <string name="app_name">aLife</string>
+<string name="Password">Password:</string>
+<string name="Login">Login</string>
+<string name="UserID">Username:</string>
+<string name="Connect">Connect</string>
+<string name="IP">Server IP Address</string>
+<string name="PORT">Server Port Number</string>
+
+<string name="ServerPORT">PORT:</string>
+</resources>
